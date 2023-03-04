@@ -13,19 +13,19 @@ public class Lab006 {
         this.m = m;
         this.n = n;
         /**
-         * Assigns local variables from main as instance variables to be used by isDivisible
+         * Assigns local variables from main as instance variables to be used by isDivisible.
          *
-         * @param Gathered from user input, n ultimately as the numerator and m as denominator
+         * @param Gathered from user input, n ultimately as the numerator and m as denominator.
          */
         }
 
         public boolean isDivisible(int n, int m){
         return n % m == 0;
             /**
-             * Tests whether n is perfectly divisible by m
+             * Tests whether n is perfectly divisible by m.
              *
-             * @param n is the numerator, m is the denominator
-             * @return true if it is divisible, false if not
+             * @param n is the numerator, m is the denominator.
+             * @return true if it is divisible, false if not.
              */
     }
         public static void main(String[] args){
