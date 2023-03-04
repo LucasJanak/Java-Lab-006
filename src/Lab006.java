@@ -1,4 +1,11 @@
 import java.util.Scanner;
+
+/**
+ *
+ * @author Lucas Janak
+ *
+ * @since Version 1.0
+ */
 public class Lab006 {
     int m;
     int n;
